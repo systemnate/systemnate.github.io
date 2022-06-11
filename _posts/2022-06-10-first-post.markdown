@@ -12,10 +12,11 @@ somewhere to organize my thoughts better. I think through writing, but I hope
 others find it helpful.
 
 One thing I'm doing right now to help grow as a developer is to read a bunch of
-the most influential books in my field. Some of these books I've read earlier in
-my career and others will be entirely new for me. This blog will hopefully help
-me actively read the ideas in these books rather than just passively shuffling
-through them.
+the most influential books in software development and think about any apply
+those ideas to my everyday life as a developer. Some of these books I've read
+earlier in my career and others will be entirely new for me. This blog will
+hopefully help me actively read the ideas in these books rather than just
+passively shuffling through them.
 
 The first book in the cycle is "Growing Object-Oriented Software, Guided by
 Tests" by Steve Freeman and Nat Pryce. The book is popularly known as "GOOS." I
@@ -24,9 +25,13 @@ experience at that time to appreciate or understand the techniques. Several
 people told me the style of TDD (Test-Driven Development) in the book is super
 mock-heavy, which isn't a good idea because you can end up with tests that pass
 but don't test the actual behavior of the real code. I had dealt with some
-mock-heavy tests and thought they were challenging to understand, so I dismissed
-what I later learned was the "London" school of TDD. The "classic" Kent Beck /
-Uncle Bob way is called the "Detroit" school of TDD.
+mock-heavy tests and thought they were challenging to understand, so based on my
+own experiences and what other developers said, I dismissed what I later learned
+was the "London" school of TDD. The "classic" Kent Beck / Uncle Bob way is
+called the "Detroit" school of TDD.
+
+I'd like to revisit this approach and see what I think now that I am older and a
+little wiser.
 
 I was shuffling through YouTube the other day when I came upon this
 [video](https://www.youtube.com/watch?v=aeX5OXO-w30) by
