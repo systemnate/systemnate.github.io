@@ -13,6 +13,7 @@ Software, Guided by Tests" by Steve Freeman and Nat Pryce.
 Chapter 3 is really just a brief intro to the tools used in the book.  It ends
 up with a Java example using JUnit, jMock, Hamcrest, etc.  Here is the test:
 
+{% raw %}
 ```Java
 @RunWith(JMock.class)
 public class AuctionMessageTranslatorTest {
@@ -36,6 +37,7 @@ AuctionMessageTranslator(listener);
   }
 }
 ```
+{% endraw %}
 
 When I first tried this book years back, I lacked the experience to take the
 ideas and make them work appropriately with Ruby on Rails. Now that I have a little

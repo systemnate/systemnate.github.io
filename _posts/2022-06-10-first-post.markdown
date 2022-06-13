@@ -53,5 +53,23 @@ test a system thoroughly - end-to-end tests are also required, but these tests
 are beneficial early in the design phase and do a reasonably good job of
 catching regressions.
 
+Specific advice and wisdom from chapters 1 and 2:
+- Start with an end-to-end acceptance test
+  - As you need to write code to make that pass, write that code using the red,
+    green, refactor steps:
+    - Write a failing test (red)
+    - Make the test pass (green)
+    - Refactor the code (refactor)
+- External quality is how well the system meets your customers' needs.
+  Running end-to-end tests can help tell us about external quality.
+- Internal quality is how well the system meets the needs of developers. Unit
+  tests can help with this. Writing unit tests gives us feedback about the
+quality of our code, and running them tells us we haven't broken any classes.
+- Tell, Don't Ask - calling objects should describe what they want in terms of
+  their neighbor's role.
+- When unit-testing collaborating objects, the authors recommend using mock
+  objects to stand in for the real collaborators and then asserting things on
+those mock objects.
+
 I'm excited to dig into the meatier parts of the book, and I'll share the ideas
 that I learn!
