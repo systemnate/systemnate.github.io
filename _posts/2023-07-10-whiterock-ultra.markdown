@@ -106,7 +106,7 @@ With only 5 miles left, I powered through the next few miles, then faced two
 more climbs and two descents. The ascents were all hiking, but I jogged the
 flatter parts and downhills as much as possible.
 
-As the finish line became visible from the crest of one of the final hill,
+As the finish line became visible from the crest of the final hill,
 adrenaline surged through me. I sprinted across the bridge to the finish line
 with every ounce of remaining strength. To me, it felt like a sprint; Denay's
 video, however, suggested otherwise.
