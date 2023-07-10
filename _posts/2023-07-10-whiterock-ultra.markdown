@@ -126,3 +126,5 @@ My deepest appreciation goes to the race directors and volunteers for your
 critical contributions to the Whiterock Ultra's success—furthermore, a special
 acknowledgment to the Whiterock Conservancy for offering us a wonderfully
 challenging course.
+
+![whiterock finish](/images/whiterock.jpeg)
